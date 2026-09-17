@@ -1,6 +1,6 @@
 # FUTURE_DS_01 – Business Sales Performance Analytics
 
-## 📊 Project Overview
+##  Project Overview
 
 This project was completed as part of the **Future Interns Data Science & Analytics Internship – Task 1**.
 
@@ -10,7 +10,7 @@ An interactive **Business Sales Performance Dashboard** was created using Micros
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 The analysis focuses on:
 
@@ -23,7 +23,7 @@ The analysis focuses on:
 
 ---
 
-## 🛠️ Tools & Techniques Used
+##  Tools & Techniques Used
 
 - **Microsoft Excel**
 - Data Cleaning
@@ -37,7 +37,7 @@ The analysis focuses on:
 
 ---
 
-## 📈 Key Performance Indicators
+##  Key Performance Indicators
 
 | KPI | Value |
 |---|---:|
@@ -46,7 +46,7 @@ The analysis focuses on:
 
 ---
 
-## 🔍 Analysis Performed
+##  Analysis Performed
 
 ### 1. Revenue Trends Over Time
 
@@ -97,7 +97,7 @@ The West region recorded the highest regional sales.
 
 ---
 
-## 💡 Key Business Insights
+##  Key Business Insights
 
 - The **Canon imageCLASS 2200 Advanced Copier** was the top-selling product, generating approximately **61,599.82** in sales.
 - **Technology** was the highest-performing category, generating **836,154.03** in sales and **145,454.95** in profit.
@@ -107,7 +107,7 @@ The West region recorded the highest regional sales.
 
 ---
 
-## 📌 Actionable Recommendations
+##  Actionable Recommendations
 
 Based on the analysis, the following business actions can be considered:
 
@@ -121,7 +121,7 @@ Based on the analysis, the following business actions can be considered:
 
 ---
 
-## 📊 Dashboard
+##  Dashboard
 
 The final Excel dashboard includes the following visualizations:
 
@@ -133,17 +133,23 @@ The final Excel dashboard includes the following visualizations:
 - **Actionable Recommendations**
 - **Key Performance Indicators (KPIs)**
 
+
+##  Dashboard Preview
+
+![Sales Dashboard](Sales_Dashboard.png)
+
 ---
 
-## 📁 Project Deliverable
+##  Project Deliverable
 
 The completed Excel analysis and dashboard are available below:
 
-**[Business_Sales_Analysis.xlsx](./Business_Sales_Analysis.xlsx)**
+- **[Business Sales Analysis Excel File](./Business_Sales_Analysis.xlsx)**
+- **[Sales Dashboard Preview](./Sales_Dashboard.png)**
 
 ---
 
-## 🏢 Internship Details
+##  Internship Details
 
 **Program:** Future Interns – Data Science & Analytics Internship  
 **Task:** Task 1 – Business Sales Performance Analytics  
@@ -151,7 +157,7 @@ The completed Excel analysis and dashboard are available below:
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Varsha V Suvarna**
 
